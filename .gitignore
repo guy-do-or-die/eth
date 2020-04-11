@@ -1,0 +1,10 @@
+.*
+.env
+.git
+back
+logs
+data
+__pycache__
+secrets.py
+nohup.out
+*.pyc

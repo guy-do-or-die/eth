@@ -1,0 +1,5 @@
+ipdb
+selenium
+mongoengine
+numpy
+scipy

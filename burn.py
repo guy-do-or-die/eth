@@ -21,11 +21,6 @@ from selenium.webdriver.common.by import By
 
 from selenium.common.exceptions import NoAlertPresentException
 
-from python_anticaptcha import AnticaptchaClient, NoCaptchaTaskProxylessTask
-
-from stem.control import Controller
-from stem import Signal
-
 from utils import log as base_log, wait
 
 from mongoengine.queryset.visitor import Q
